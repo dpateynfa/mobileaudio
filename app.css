@@ -1,0 +1,30 @@
+body {
+    padding-top: 5rem;
+    
+  }
+  .starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+
+  .bg-dark {
+      /* background-color: #939597 !important; */
+        background: rgb(147,149,151) !important;
+        background: linear-gradient(90deg, rgba(147,149,151,1) 91%, rgba(245,223,77,1) 100%) !important;
+  }
+
+  .navbar-brand {
+      color: #000 !important;
+  }
+
+  input {
+      background-color: #939597 !important;
+      color:#fff;
+      border:none;
+      border-right:2px solid #F5DF4D !important;
+      border-bottom:2px solid #F5DF4D !important;
+      outline:#F5DF4D !important;
+      padding:5px 10px;
+      margin:10px 10px 10px 0px;
+      cursor: pointer;
+  }
